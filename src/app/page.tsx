@@ -1,17 +1,17 @@
-import Banner from '@/components/homepage/Banner';
-import Library from '@/components/homepage/Library';
+// import Banner from '@/components/homepage/Banner';
+// import Library from '@/components/homepage/Library';
 
 
-const page = () => {
-  return (
-    <div>
-      <Banner/>
+// const page = () => {
+//   return (
+//     <div>
+//       <Banner/>
 
-      <Library/>
+//       <Library/>
 
       
-    </div>
-  );
-};
+//     </div>
+//   );
+// };
 
-export default page;
+// export default page;
